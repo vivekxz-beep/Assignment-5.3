@@ -1,0 +1,102 @@
+
+/* Google Fonts */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f1f5f9;
+    color: #333;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.8;
+}
+
+/* Header */
+header {
+    background-color: #172554;
+    color: white;
+    text-align: center;
+    padding: 35px;
+}
+
+header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 42px;
+    letter-spacing: 2px;
+}
+
+header p {
+    font-size: 16px;
+}
+
+/* Main Section */
+main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+/* Cards */
+.card {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+    color: #1d4ed8;
+    border-bottom: 2px solid #1d4ed8;
+    padding-bottom: 10px;
+}
+
+/* Heading Styles */
+.heading-one {
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.heading-two {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.heading-three {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+/* Paragraph Styles */
+.normal {
+    font-size: 17px;
+    text-align: justify;
+}
+
+.center {
+    text-align: center;
+    font-size: 18px;
+}
+
+.italic {
+    font-style: italic;
+    letter-spacing: 1px;
+}
+
+/* Text Emphasis */
+.underline {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: #fef08a;
+    display: inline-block;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+/* Footer */
+footer {
+    background-color: #172554;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
